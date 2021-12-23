@@ -1,8 +1,6 @@
 # Telegram_Session_Terminate
 Using this software, we can logout of Telegram account session from Other Location,
 
-Contact with me to get the Password of Zip file on :
-
 Contact with me to get the Password of Zip 📁 file on :
 
 <h3 align="left">Connect with Us:</h3>
